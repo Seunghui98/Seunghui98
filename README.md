@@ -1,6 +1,7 @@
 ### Hi there 👋
 I am a developer. I'm growing every day, Can you watch my growing up ?  
 ✨ portfolio ✨  
+🌱 [tech blog](https://developer-ellen.tistory.com/) 🌱
 
 <!--
 **Seunghui98/Seunghui98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
