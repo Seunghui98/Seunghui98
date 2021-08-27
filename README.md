@@ -1,6 +1,6 @@
 ### Hi there 👋
 I am a developer. I'm growing every day, Can you watch my growing up ?  
-✨ portfolio ✨  
+✨ [portfolio](https://seunghui98.github.io/) ✨  
 🌱 [tech blog](https://developer-ellen.tistory.com/) 🌱
 
 <!--
