@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 I am a developer. I'm growing every day, Can you watch my growing up ?  
-✨ [portfolio](-) ✨  
+✨ [portfolio](https://iron-beef-2e7.notion.site/32cea42401b3410b9ad145904a5f65d5) ✨  
 👩‍👩‍👧‍👧 [cs study](https://happyeuni.notion.site/CS-0dc485bfbd0845c9bed6b9444b4ea3c2) 👩‍👩‍👧‍👧  
 🌱 [tech blog](https://developer-ellen.tistory.com/) 🌱
 
